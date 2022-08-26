@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import BasePage from "./base.page";
+import BasePage from "./Base.page";
 
 class SortablePage extends BasePage {
   static get url() {
